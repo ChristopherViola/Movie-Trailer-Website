@@ -1,0 +1,17 @@
+certifi==2018.1.18
+chardet==3.0.4
+click==6.7
+configparser==3.5.0
+enum34==1.1.6
+flake8==3.5.0
+Flask==0.12.2
+idna==2.6
+itsdangerous==0.24
+jinja2==2.10
+markupsafe==1.0
+pew==1.1.2
+pipenv==9.0.3
+requests==2.18.4
+urllib3==1.22
+virtualenv==15.1.0
+Werkzeug==0.14.1

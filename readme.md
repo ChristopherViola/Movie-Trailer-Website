@@ -8,7 +8,7 @@ The home page shows my six favourite movies, other pages are self explanatory.
 1. Clone this repo, rename ".sample.env" to ".env" and fill in your TMDB API key.
 2. Open your dev console to the root of this project and run <br>
 ```pip install -r requirements.txt```
-3. Start the program by typing ```python run.py```, your browser should open pointing to 127.0.0.1:5000 showing the home page.
+3. Start the program by typing ```python run_locally.py```, your browser should open pointing to 127.0.0.1:5000 showing the home page.
 
 ### Notes
 If for any reason your port 5000 is already taken feel free to change it. <br>

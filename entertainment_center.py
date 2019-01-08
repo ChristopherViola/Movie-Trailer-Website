@@ -17,7 +17,7 @@ def get_trailer_id(videos):
     for video in videos['results']:
         # Looking for Youtube trailer
         if (video['type'] == 'Trailer' and video['site'] == "YouTube"):
-            return video['key']
+            return video['key'].replace('http:', 'https:')
     return ''
 
 

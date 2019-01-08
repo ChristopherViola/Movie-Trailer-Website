@@ -1,8 +1,8 @@
 import requests
-import config
+import os
 
 # Retrieve the api key from configuration file
-TMDB_API_KEY = config.api_key
+TMDB_API_KEY = os.environ.get('api_key','')
 # Define constant API base url
 TMDB_API_URL = 'https://api.themoviedb.org/3/'
 # start a session

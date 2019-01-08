@@ -5,15 +5,12 @@ The home page shows my six favourite movies, other pages are self explanatory.
 
 ## Getting Started
 
-1. Clone this repo, rename "tmdbapi/sample-config.py" to "tmdbapi/config.py" and fill in your TMDB API key.
+1. Clone this repo, rename ".sample.env" to ".env" and fill in your TMDB API key.
 2. Open your dev console to the root of this project and run <br>
 ```pip install -r requirements.txt```
 3. Start the program by typing ```python run.py```, your browser should open pointing to 127.0.0.1:5000 showing the home page.
 
-## For Udacity reviewer
-Inside the zip file uploaded there's already a compiled config.pyc file, so please skip the first step of the previous paragraph.
-
-### Note
+### Notes
 If for any reason your port 5000 is already taken feel free to change it. <br>
 Inside "run.py" there are 2 occurences, make sure they match.
 

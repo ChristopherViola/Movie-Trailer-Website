@@ -7,7 +7,7 @@ flake8==3.5.0
 Flask==0.12.2
 idna==2.6
 itsdangerous==0.24
-jinja2==2.10
+jinja2==2.11.3
 markupsafe==1.0
 pew==1.1.2
 pipenv==9.0.3

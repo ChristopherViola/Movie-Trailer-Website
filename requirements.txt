@@ -12,7 +12,7 @@ markupsafe==1.0
 pew==1.1.2
 pipenv==9.0.3
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 Werkzeug==0.14.1
 gunicorn==19.9.0
